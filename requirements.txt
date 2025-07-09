@@ -3,7 +3,6 @@ django-bootstrap-form
 django-countries
 django-formtools
 django-gmailapi-json-backend
-django-honeypot
 django-imagekit
 django-localflavor
 django-loginas

@@ -84,7 +84,6 @@ INSTALLED_APPS = (
     'image_cropping',
     # gmail api for send mail
     'gmailapi_backend',
-    'honeypot',
     'imagekit',
     'loginas',
     'taggit',
